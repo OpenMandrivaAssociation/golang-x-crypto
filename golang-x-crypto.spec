@@ -4,7 +4,7 @@
 # https://github.com/golang/crypto
 %global goipath		golang.org/x/crypto
 %global forgeurl	https://github.com/golang/crypto
-Version:		0.26.0
+Version:		0.27.0
 
 %gometa
 
